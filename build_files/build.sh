@@ -12,6 +12,7 @@ set -euxo pipefail
 /ctx/build_files/install/libvirt.sh
 /ctx/build_files/install/microvm.sh
 
+/ctx/build_files/install/fonts.sh
 /ctx/build_files/install/packages.sh
 /ctx/build_files/install/1password.sh
 /ctx/build_files/install/flatpaks.sh
