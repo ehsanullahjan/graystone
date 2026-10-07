@@ -15,6 +15,8 @@ set -euxo pipefail
 /ctx/build_files/install/fonts.sh
 /ctx/build_files/install/git.sh
 /ctx/build_files/install/packages.sh
+/ctx/build_files/install/yazi.sh
+
 /ctx/build_files/install/1password.sh
 /ctx/build_files/install/flatpaks.sh
 
