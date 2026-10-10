@@ -2,4 +2,4 @@
 
 set -euxo pipefail
 
-dnf -y install borgbackup ddcutil dbus-daemon pciutils lm_sensors lshw sysstat
+dnf -y install borgbackup ddcutil pciutils lm_sensors lshw sysstat

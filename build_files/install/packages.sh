@@ -12,6 +12,7 @@ INCLUDED_PACKAGES=(
 	autofs
 	bat
 	carapace
+	dbus-daemon
 	distrobox
 	dysk
 	eza
