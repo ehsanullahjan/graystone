@@ -14,6 +14,7 @@ INCLUDED_PACKAGES=(
 	bat
 	carapace
 	chezmoi
+	darkman
 	dbus-daemon
 	distrobox
 	dysk
