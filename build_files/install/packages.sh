@@ -14,6 +14,7 @@ INCLUDED_PACKAGES=(
 	bat
 	carapace
 	chezmoi
+	cliphist
 	darkman
 	dbus-daemon
 	distrobox
