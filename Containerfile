@@ -3,7 +3,7 @@ ARG FEDORA_IMAGE_VERSION="44"
 
 ### Build rust artifacts
 FROM docker.io/library/rust:slim AS rust_build_box
-RUN cargo install rot8 --version 1.0.0 --root /build
+RUN cargo install --git https://github.com/efernau/rot8.git --rev ec37687 --root /build
 
 ### Allow build scripts to be referenced without being copied into the final image
 FROM scratch AS ctx
