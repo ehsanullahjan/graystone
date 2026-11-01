@@ -30,6 +30,7 @@ INCLUDED_PACKAGES=(
 	tmux
 	trash-cli
 	vim
+	wlogout
 	xdg-terminal-exec
 	zoxide
 	zsh
