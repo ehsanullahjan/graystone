@@ -30,6 +30,7 @@ INCLUDED_PACKAGES=(
 	tmux
 	trash-cli
 	vim
+	wayvnc
 	wlogout
 	xdg-terminal-exec
 	zoxide
