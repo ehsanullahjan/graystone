@@ -26,7 +26,7 @@ INCLUDED_PACKAGES=(
 	grc
 	ripgrep
 	starship
-	tealdeer
+	tldr
 	tmux
 	trash-cli
 	vim
