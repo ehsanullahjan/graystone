@@ -33,6 +33,7 @@ INCLUDED_PACKAGES=(
 	vim
 	wayvnc
 	wlogout
+	wtype
 	xdg-terminal-exec
 	zoxide
 	zsh
