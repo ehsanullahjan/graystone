@@ -7,6 +7,7 @@ dnf config-manager setopt copr:copr.fedorainfracloud.org:ehsanj:coprstones.enabl
 
 dnf -y --enable-repo=copr:copr.fedorainfracloud.org:ehsanj:coprstones install \
 	iio-sensor-proxy \
+	lisgd \
 	swayrot8 \
 	wvkbd
 
