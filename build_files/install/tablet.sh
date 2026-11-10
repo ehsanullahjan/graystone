@@ -10,5 +10,3 @@ dnf -y --enable-repo=copr:copr.fedorainfracloud.org:ehsanj:coprstones install \
 	lisgd \
 	swayrot8 \
 	wvkbd
-
-systemctl enable iio-sensor-proxy.service
